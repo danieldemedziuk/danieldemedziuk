@@ -24,10 +24,10 @@ Here are some ideas to get you started:-->
 <img align="left" alt="VSCode" width="36px" src="https://i.ibb.co/v49NtB3/1-u9-Rw2z-T1k-Ql0-I0-Oa-9vc-g.png" />
 <img align="left" alt="Ubuntu" width="36px" src="https://i.ibb.co/CHm264n/888879.png" />
 <img align="left" alt="Windows" width="36px" src="https://i.ibb.co/X76sQCg/desktop-microsoft-os-screen-technology-windows-icon-1320192780138264654-512.png" />
-
+<img align="left" alt="Odoo" width="66px" src="https://i.ibb.co/7zF9VMn/860215381553750363-512.png" />
 <br />
 <br />
 
-<img align="left" alt="Odoo" width="136px" src="https://i.ibb.co/7zF9VMn/860215381553750363-512.png" />
+
 
 ---
