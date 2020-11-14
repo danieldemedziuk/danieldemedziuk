@@ -19,14 +19,8 @@ Here are some ideas to get you started:-->
 <br />
 <br />
 
-- Custom modules
-- Changes
-- Views
-- Translations
-- Shares
-- Flow
-- ... and more
-
+- :computer: Custom modules
+- :rainbow: Views
 
 ### Technologies & Tools:
 
