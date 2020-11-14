@@ -10,12 +10,19 @@ Here are some ideas to get you started:-->
 - 💬 Ask about my Git
 - 👯 I’m looking to collaborate with other content creators
 
-<img align="left" alt="Odoo" width="96px" src="https://i.ibb.co/7zF9VMn/860215381553750363-512.png" />
+### Odoo Developer
+
+<img align="left" alt="Odoo Developer" width="126px" src="https://i.ibb.co/7zF9VMn/860215381553750363-512.png" />
 
 <br />
 <br />
+<br />
+<br />
+<br />
+
 
 ### Technologies & Tools:
+
 <img align="left" alt="Python" width="36px" src="https://i.ibb.co/0QwjgcQ/iconfinder-267-Python-4518857.png" />
 <img align="left" alt="Django" width="36px" src="https://i.ibb.co/R0ZJbMV/django.png" />
 <img align="left" alt="PostgreSQL" width="36px" src="https://i.ibb.co/txcbYCR/Postgresql-elephant.png" />
