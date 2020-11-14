@@ -14,6 +14,10 @@ Here are some ideas to get you started:-->
 
 <img align="left" alt="Odoo Developer" width="226px" src="https://i.ibb.co/7Qy6ZhJ/860215381553750363-512.png" />
 
+<br />
+<br />
+<br />
+
 ### Technologies & Tools:
 
 <img align="left" alt="Python" width="36px" src="https://i.ibb.co/0QwjgcQ/iconfinder-267-Python-4518857.png" />
