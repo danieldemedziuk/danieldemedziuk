@@ -12,14 +12,7 @@ Here are some ideas to get you started:-->
 
 ### Odoo Developer
 
-<img align="left" alt="Odoo Developer" width="126px" src="https://i.ibb.co/7zF9VMn/860215381553750363-512.png" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
+<img align="left" alt="Odoo Developer" width="226px" src="https://i.ibb.co/7Qy6ZhJ/860215381553750363-512.png" />
 
 ### Technologies & Tools:
 
