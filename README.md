@@ -32,8 +32,8 @@ Here are some ideas to get you started:-->
 <img align="left" alt="CSS" width="36px" src="https://i.ibb.co/5LBdb08/css-3.png" />
 <img align="left" alt="JS" width="36px" src="https://i.ibb.co/1KRDBNf/iconfinder-187-Js-4519134.png" />
 <img align="left" alt="Git" width="36px" src="https://i.ibb.co/qyr7d80/iconfinder-141-Git-4519077.png" />
-<img align="left" alt="Docker" width="36px" src="https://i.ibb.co/nsKBTyT/docker.png" />
-<img align="left" alt="AWS" width="36px" src="https://i.ibb.co/P1NC4PW/aws.png" />
+<img align="left" alt="Docker" width="36px" src="https://i.ibb.co/Kytmv5S/DOCKK1.png" />
+<img align="left" alt="AWS" width="36px" src="https://i.ibb.co/0XHmSKx/AWS-FIn.png" />
 <img align="left" alt="PyCharm" width="36px" src="https://i.ibb.co/DbWXwzN/pycharm-logo-big.png" />
 <img align="left" alt="VSCode" width="36px" src="https://i.ibb.co/v49NtB3/1-u9-Rw2z-T1k-Ql0-I0-Oa-9vc-g.png" />
 <img align="left" alt="Ubuntu" width="36px" src="https://i.ibb.co/CHm264n/888879.png" />
