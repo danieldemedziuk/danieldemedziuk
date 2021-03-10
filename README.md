@@ -1,4 +1,4 @@
-### Hello, I'm Daniel as Jr. Python Developer 👋
+### Hello, I'm Daniel as Python Developer 👋
 
 <!--
 **danieldemedziuk/danieldemedziuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
