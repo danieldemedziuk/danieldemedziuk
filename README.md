@@ -22,6 +22,8 @@ Here are some ideas to get you started:-->
 
 - :computer: Custom modules
 - :rainbow: Views
+- :memo: Raports
+- :wrench: Service
 
 ### Technologies & Tools:
 
