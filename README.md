@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate with other content creators
 - :video_game: I will gladly join the startup team
 
-### Odoo Developer
+### :zap: Odoo 12 13 14 Developer
 
 <img align="left" alt="Odoo Developer" width="226px" src="https://i.ibb.co/7Qy6ZhJ/860215381553750363-512.png" />
 
