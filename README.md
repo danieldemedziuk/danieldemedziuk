@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on <a href="https://github.com/danieldemedziuk/odoo12-work_schedule">Odoo 12 Schedule module</a>
+- 🔭 I’m currently working on <a href="https://github.com/danieldemedziuk/pygame_dragon">Dragon Tales: The Lost Grail</a>
 - 🌱 I'm currently learning some new things I can use in Odoo: JS, QWeb, etc.
 - 💬 Ask about my Git
 - 👯 I’m looking to collaborate with other content creators
