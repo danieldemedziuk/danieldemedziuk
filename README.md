@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on <a href="https://github.com/danieldemedziuk/js_game">JS Game a'la Mario</a>
+- 🔭 I’m currently working on <a href="https://github.com/danieldemedziuk/pygame_pirate_shanties">Pirate Shanties</a>
 - 🌱 I'm currently learning some new things I can use in Odoo: JS, QWeb, etc.
 - 💬 Ask about my Git
 - 👯 I’m looking to collaborate with other content creators
