@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on <a href="https://github.com/danieldemedziuk/pygame_pirate_shanties">Pirate Shanties</a>
-- 🌱 I'm currently learning some new things I can use in Odoo: JS, QWeb, etc.
+- 🌱 Learning new things
 - 💬 Ask about my Git
 - 👯 I’m looking to collaborate with other content creators
 - :video_game: I will gladly join the startup team
