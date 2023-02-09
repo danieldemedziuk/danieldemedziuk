@@ -28,7 +28,7 @@ Here are some ideas to get you started:-->
 - :briefcase: Business solutions
 - :mechanical_arm: Process automation
 - :parrot: Customization
-- :beetle: Bug fixing
+- :lady_beetle: Bug fixing
 
 
 ### Technologies & Tools:
