@@ -22,9 +22,14 @@ Here are some ideas to get you started:-->
 <br />
 
 - :computer: Custom modules
-- :rainbow: Views
+- :framed_picture: Views
 - :memo: Raports
-- :wrench: Service
+- :wrench: Service & Maintenance
+- :briefcase: Business solutions
+- :mechanical_arm: Process automation
+- :parrot: Customization
+- :beetle: Bug fixing
+
 
 ### Technologies & Tools:
 
