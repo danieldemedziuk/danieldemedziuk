@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on <a href="https://github.com/danieldemedziuk/pygame_pirate_shanties">Pirate Shanties</a>
+- :man_technologist: I’m currently working on <b>Odoo development</b></a>
 - 🌱 Learning new things
 - 💬 Ask about my Git
 - 👯 I’m looking to collaborate with other content creators
@@ -24,7 +24,7 @@ Here are some ideas to get you started:-->
 - :computer: Custom modules
 - :framed_picture: Views
 - :memo: Raports
-- :wrench: Service & Maintenance
+- :hammer_and_wrench: Service & Maintenance
 - :briefcase: Business solutions
 - :mechanical_arm: Process automation
 - :parrot: Customization
