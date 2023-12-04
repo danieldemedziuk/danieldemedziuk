@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask about my Git
 - 👯 I’m looking to collaborate with other content creators
 - :video_game: I will gladly join the startup team
-- :zap: Odoo 8 12 14 15 16
+- :zap: Odoo 8 12 14 15 16 17
 
 ### Odoo Developer
 
